@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="sunset">Sunset</string>
+    <string name="Sunrise">Sunrise</string>
+    <string name="main_temp">0</string>
+    <string name="feels_like">It feels like</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="search_location">Search Location</string>
+    <string name="min_temp">Min Temp.</string>
+    <string name="max_temp">Max Temp.</string>
+    <string name="temperature">Temperature</string>
+    <string name="demo_date">August 10, 1984</string>
+    <string name="default_numbers">n/a</string>
+    <string name="degrees_farenheit">Degrees Farenheit</string>
+    <string name="low_temp">Low Temp</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="the_temperature_current_feels_like">The temperature current feels like...</string>
+    <string name="item">Item</string>
+
+</resources>
