@@ -19,5 +19,9 @@
     <string name="low">Low</string>
     <string name="the_temperature_current_feels_like">The temperature current feels like...</string>
     <string name="item">Item</string>
+    <string name="myweather">MyWeather</string>
+    <string name="by_colton">By Colton</string>
+    <string name="special_thanks_to_openweathermap_org_for_making_this_project_possible_with_the_current_weather_api">* Special thanks to openweathermap.org for making this project possible with the Current Weather API.</string>
+    <string name="myweather_logo">MyWeather Logo</string>
 
 </resources>
