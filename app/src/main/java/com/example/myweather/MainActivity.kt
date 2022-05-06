@@ -31,7 +31,7 @@ import java.util.*
 
 
 class MainActivity : AppCompatActivity() {
-
+//testing github change
     private lateinit var fusedLocationProviderClient: FusedLocationProviderClient
     private lateinit var binding: ActivityMainBinding
     private var latitude: Double = 0.0
